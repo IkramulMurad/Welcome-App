@@ -36,7 +36,7 @@ localhost:8080/?name=Ikramul
 * **Ikramul Murad** - *Initial work* - [Ikramul Murad](https://github.com/IkramulMurad)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 * [Akash Nimare's post in Medium](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
